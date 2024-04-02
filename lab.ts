@@ -45,7 +45,7 @@ const EmployeeData: IEmployee = {
         geo:
         { lat: "-37.3159", lng: "81.1496" } }
 }
-
+//? 5,6 
 const emp1 = new Employee(EmployeeData);
 console.log(emp1);
 
