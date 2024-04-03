@@ -32,6 +32,7 @@ var EmployeeData = {
         zipcode: "92998-3874",
         geo: { lat: "-37.3159", lng: "81.1496" } }
 };
+//? 5,6 
 var emp1 = new Employee_1.default(EmployeeData);
 console.log(emp1);
 var man1 = new Manager_1.default(EmployeeData);

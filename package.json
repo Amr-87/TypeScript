@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript lab",
+  "main": "lab.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amr-87/TypeScript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "author": "Amr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amr-87/TypeScript/issues"
+  },
+  "homepage": "https://github.com/Amr-87/TypeScript#readme"
+}
